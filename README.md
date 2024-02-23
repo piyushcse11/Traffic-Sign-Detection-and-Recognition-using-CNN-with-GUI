@@ -41,5 +41,5 @@ Acknowledgments:
 The training data for the CNN model is sourced from Kaggle.
 
 Contact:
-For any inquiries or feedback, please contact [your-piyushcse11@gmail.com].
+For any inquiries or feedback, please contact [piyushcse11@gmail.com].
 
